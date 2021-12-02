@@ -18,3 +18,5 @@ Algoritmo Programa
 		Escribir "ALUMNO N? ",i+1,nombre[i];
 	FinPara
 FinAlgoritmo
+
+//Estamos realizando el examen de GIT
